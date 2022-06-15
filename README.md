@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amrmaali
-- 👀 I’m interested in data science & analytics
-- 🌱 I’m currently learning machine learning & optimization of supply chain
+- 👀 I’m a professional Data Scientist
+- 🌱 I’m working on projects relating to supply chain automation & optimization, prediction & machine learning and routing & network optimization
 - 💞️ I’m looking to collaborate on any optimization project or prediction models
 - 📫 How to reach me amrosmaaly@gmail.com
 
